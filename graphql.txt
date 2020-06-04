@@ -1,0 +1,96 @@
+Console at http://localhost:4000/graphql
+
+1)
+Create message:
+
+mutation {
+  createMessage(input: {
+    content: "My first message",
+    author: {
+      name : "Bob",
+      age: 30,
+      nationality: "English"
+    }
+  }) {
+    id_message
+    content
+    author {
+      age
+      nationality
+    }
+  }
+}
+
+
+
+2)
+Query message:
+
+query {
+  getMessage(id_message : "<message_id>") {
+    content
+    author {
+      id_author
+      name
+    }
+  }
+}
+
+
+
+3)
+Update message:
+
+mutation {
+  updateMessage(id_message : "<message_id>", content: "New message") {
+    id_message
+    content
+    author {
+      id_author
+      age
+    }
+  }
+}
+
+
+4)
+{
+  listMessages(author_name : "Bob") {
+    id_message
+    content
+    author {
+      id_author
+      name
+      age
+      nationality
+    }
+  }
+}
+
+
+5)
+query {
+  listAuthors {
+    id_author
+    name
+    age
+    nationality
+  }
+}
+
+
+6)
+Count messages:
+
+query {
+  countMessages
+}
+
+
+7)
+Count authors and messages:
+
+query {
+  countAuthors
+  countMessages
+}

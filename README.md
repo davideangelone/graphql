@@ -1,4 +1,4 @@
-# graphql
+# GraphQL demo
 ***Esempio di server GraphQL in express***
 
 Per eseguire il server:

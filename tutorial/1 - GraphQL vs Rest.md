@@ -207,6 +207,7 @@ In questa query viene indicato lo *schema* con cui vogliamo ottenere la risposta
       name
     }
 }
+}
 ```
 
 In base a tale schema, esempio di risposta sarà :
@@ -400,5 +401,7 @@ Per fare una analogia, scegliere tra REST e GraphQL è come se decidere se per u
 Il presente articolo è una panoramica introduttiva a GraphQL. Per ulteriori approfondimenti si rimanda ai seguenti riferimenti :
 
 <https://www.howtographql.com>
+
 <https://graphql.org>
+
 https://www.tutorialspoint.com/graphql

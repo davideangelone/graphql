@@ -414,3 +414,6 @@ Di seguito riporto i riferimenti più rilevanti :
 <https://www.npmjs.com/package/express-graphql>
 
 <https://graphql.org/code>
+
+<https://periscope.iad2.it/graphql-api/>
+

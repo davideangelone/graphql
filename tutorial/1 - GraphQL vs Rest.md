@@ -399,8 +399,10 @@ Per fare una analogia, scegliere tra REST e GraphQL è come se decidere se per u
 
 Il presente articolo è una panoramica introduttiva a GraphQL. Per ulteriori approfondimenti si rimanda ai seguenti riferimenti :
 
-<https://www.howtographql.com>
+https://www.howtographql.com
 
-<https://graphql.org>
+https://graphql.org
 
 https://www.tutorialspoint.com/graphql
+
+https://periscope.iad2.it/graphql/

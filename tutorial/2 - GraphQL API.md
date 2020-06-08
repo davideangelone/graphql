@@ -410,5 +410,7 @@ Sono tuttavia presenti molti altri server GraphQL, nei più diversi linguaggi, c
 Di seguito riporto i riferimenti più rilevanti :
 
 <https://github.com/davideangelone/graphql>
+
 <https://www.npmjs.com/package/express-graphql>
+
 <https://graphql.org/code>

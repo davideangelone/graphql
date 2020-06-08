@@ -207,7 +207,6 @@ In questa query viene indicato lo *schema* con cui vogliamo ottenere la risposta
       name
     }
 }
-}
 ```
 
 In base a tale schema, esempio di risposta sarà :
@@ -241,7 +240,7 @@ query {
 
 In questo caso lo schema è
 
-```json
+```graphql
 {
     id_message
     content

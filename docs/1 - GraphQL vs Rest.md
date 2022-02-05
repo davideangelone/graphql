@@ -1,3 +1,4 @@
+![img](GraphQLvsRest.jpg)
 ### GraphQL vs REST
 
 ***Introduzione***

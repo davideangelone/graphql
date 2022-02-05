@@ -405,5 +405,3 @@ https://www.howtographql.com
 https://graphql.org
 
 https://www.tutorialspoint.com/graphql
-
-https://periscope.iad2.it/graphql/

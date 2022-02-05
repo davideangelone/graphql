@@ -416,5 +416,3 @@ Di seguito riporto i riferimenti più rilevanti :
 
 <https://graphql.org/code>
 
-<https://periscope.iad2.it/graphql-api/>
-

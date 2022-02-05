@@ -1,3 +1,4 @@
+![img](GraphQLApi.jpg)
 ## GraphQL API
 ***Introduzione***
 
